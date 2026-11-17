@@ -1,0 +1,24 @@
+{
+  "jogadores": [
+    { "id": 1, "nome": "Kevin Viveros", "clube": "Athletico-PR", "posicao": "Atacante", "gols": 21 },
+    { "id": 2, "nome": "Hulk", "clube": "Atlético-MG", "posicao": "Atacante", "gols": 7 },
+    { "id": 3, "nome": "Luciano Juba", "clube": "Bahia", "posicao": "Lateral", "gols": 11 },
+    { "id": 4, "nome": "Danilo Santos", "clube": "Botafogo", "posicao": "Meia", "gols": 10 },
+    { "id": 5, "nome": "Marcinho", "clube": "Chapecoense", "posicao": "Atacante", "gols": 5 },
+    { "id": 6, "nome": "Matheus Bidu", "clube": "Corinthians", "posicao": "Lateral", "gols": 5 },
+    { "id": 7, "nome": "Pedro Rocha", "clube": "Coritiba", "posicao": "Atacante", "gols": 9 },
+    { "id": 8, "nome": "Kaio Jorge", "clube": "Cruzeiro", "posicao": "Atacante", "gols": 14 },
+    { "id": 9, "nome": "Pedro", "clube": "Flamengo", "posicao": "Atacante", "gols": 20 },
+    { "id": 10, "nome": "John Kennedy", "clube": "Fluminense", "posicao": "Atacante", "gols": 9 },
+    { "id": 11, "nome": "Carlos Vinícius", "clube": "Grêmio", "posicao": "Atacante", "gols": 11 },
+    { "id": 12, "nome": "Carbonero", "clube": "Internacional", "posicao": "Meia", "gols": 7 },
+    { "id": 13, "nome": "Eduardo", "clube": "Mirassol", "posicao": "Meia", "gols": 7 },
+    { "id": 14, "nome": "Flaco López", "clube": "Palmeiras", "posicao": "Atacante", "gols": 10 },
+    { "id": 15, "nome": "Lucas Barbosa", "clube": "Red Bull Bragantino", "posicao": "Atacante", "gols": 7 },
+    { "id": 16, "nome": "Jajá", "clube": "Remo", "posicao": "Atacante", "gols": 9 },
+    { "id": 17, "nome": "Gabigol", "clube": "Santos", "posicao": "Atacante", "gols": 15 },
+    { "id": 18, "nome": "Calleri", "clube": "São Paulo", "posicao": "Atacante", "gols": 10 },
+    { "id": 19, "nome": "Andrés Gómez", "clube": "Vasco", "posicao": "Atacante", "gols": 5 },
+    { "id": 20, "nome": "Renê", "clube": "Vitória", "posicao": "Lateral", "gols": 10 }
+  ]
+}
